@@ -1,0 +1,549 @@
+Apologies to readers who are waiting on the next chapter of "Anjali's Red Scarf". I'm still working on it but it's coming slowly, so in the meantime here's something rather different that's been sitting in my drafts folder for a while.
+*****
+"So," I said to Sigrid, "we're cutting our travel budget but increasing training. By the way, have I mentioned how good that coat looks on you?"
+Sigrid and I haven't worked together for several years now, but her office is on the same train line as mine, so every other week we share the ride in to the city. If there are two seats together, we'll sit and chat. More often it's standing room only, and we'll share a stanchion and lean in to talk as the commuting masses press around us.
+"Why, thank you," she replied. "Some nice person bought it for my birthday. Oh, Tim, I didn't tell you my news. Derek"—that was her current boss—"wants to talk to me about organising a team-building event."
+"A team—oh. Oh dear."
+We were both thinking about the same day, five years in the past and many miles away.
+* * * * *
+I was twenty-two. I'd been working with Joint Coordinated Network Inc's software division for a few months, my first real job, and when they first sent me the offer I thought I was incredibly lucky to be working with one of the biggest names in office productivity solutions.
+How soon the novelty wears off, eh?
+JCN had over a hundred thousand staff worldwide, but somebody in upper management had decided that big offices were inefficient and discouraged innovation. So they'd decentralised, breaking their big divisions into smaller groups, and moved the groups to wherever office space was cheap. This is how I found myself assigned to the Paradigm Reimagination Group, a team of forty-odd people stationed in a small office in a suburban industrial park.
+PRG was working on a new project, a web-based office productivity application, and I'd been brought on as a developer. The concept was interesting enough, and even as a wet-behind-the-ears code monkey I could see that it had plenty of commercial potential if we could get it right.
+Our rivals certainly thought so. Barron Software, an up-and-coming outfit looking to build market share, had just announced that they were working on a similar product. So we were officially in a high-stakes race, and while there was still some way to go, our chances weren't looking good.
+Whose fault was that? Oh, there are so many places I could point the finger.
+There was Howard, our senior developer. He'd been with JCN since the 1980s, and he knew everything there was to know about the inner workings of our products. Problem was, he didn't feel like sharing. Often I'd end up playing Freecell for hours on end, not because there was no work to do, but because Howard didn't think I was up to it. "It'd take too long to teach you," he'd say, "faster to do it myself."
+There was the anonymous person who'd printed out the wrong version of the project specs for a planning meeting, leading to us spending two months on a build that didn't meet requirements. Most of my work on that one ended up being deleted unused. Demoralising. Nobody quite remembered who had brought the printouts, and nobody was prepared to own up.
+There was the ongoing feud between Kathleen (general office admin) and Margaret (the boss's PA). For reasons neither of them would discuss, they'd stopped talking to one another, which had led to a very memorable day when Margaret scheduled a visit and speech from the Regional Head of Operations in the same timeslot that Kathleen had booked a protracted test of the fire-alarm system.
+And let's not even talk about the Milk Bandit.
+I could go on and on. There were so many other dysfunctions I could name, interpersonal conflicts and grudges that made Middle-Eastern politics look straightforward by comparison. But the biggest one, in my eyes, was the boss himself: Alistair.
+Alistair had once been an Olympic rowing coach, and he never let us forget it. Every day as I walked into the office, I was met by a framed photograph of him standing alongside the team as they showed off their silver medals.
+That had been thirty years earlier. On the strength of that achievement, and perhaps because he'd been to the same private school as several of the company execs, he'd managed to talk his way into a management position at JCN. Alistair fervently believed that managing a software development project was fundamentally no different to managing a rowing team, a belief that he shared with us at every opportunity.
+Every Monday morning at ten a.m. Alistair would call us all together into the break room and deliver a Motivational Speech. Inevitably he would exhort us to Pull Together, Keep A Productive Rhythm, Put Your Backs Into It, Don't Be Afraid To Get Your Feet Wet, and so forth, as seventy-eight eyes stared wistfully at the biscuits that sat so tantalisingly close. But his signature quote, repeated more and more frequently as we circled closer and closer to the drain, was this:
+"When our competitors are giving a hundred and ten per cent, we have to give a hundred and twenty!"
+Nevertheless, working at JCN had its compensations. For me, the greatest of these was the presence of Sigrid, the newest member of the office's small graphics team. She had joined three months before I did, and as new staff we'd both been volunteered onto the office End-Of-Year Party Planning Committee together. So we spent half an hour together every week—more if I could contrive to synchronise my tea-break with her—and I'd become aware of her many good qualities. In addition to being cute (her button nose, her pixie cut, her blue-grey eyes) she was smart, and she was kind; no matter what you brought to her, she'd do her best to help. We both liked Belle and Sebastian, and we'd both been falsely accused of milk theft.
+All in all, I had become rather more than fond of her, and yet I had no idea what to do about it. I was shy and inexperienced, having graduated from university only slightly less virginal than when I'd gone in. I consumed as much internet porn as you'd expect from a lad of my age, and I had no shortage of explicit fantasies about every attractive woman in sight, but that part of me seemed quite detached from the part that gazed wistfully after Sigrid and daydreamed about being one another's one and only.
+I wasn't at all sure how one went about asking out a co-worker (what if she says no?) so I made no moves. I simply hung around with her as much as I could, and waited for her to notice my signals and take the first step.
+In hindsight, it's not a strategy I would recommend. Sigrid seemed to enjoy my company, but seemed oblivious to my romantic interest. Furthermore, there was a fly in the ointment. Sigrid had a friend named Kelly, a tall freckled redhead from Ireland who also worked in the graphics team, and who had taken an instant dislike to me for reasons I couldn't fathom.
+If I came by Sigrid's desk, Kelly would be there to intercept me: "Hi Timothy, Sigrid's very busy right now, but I'm sure I can take care of whatever it is you need." If I was in the break room when they arrived for lunch, Kelly would steer Sigrid to some other table; if they got there first, I'd arrive to find Kelly had arranged things in such a way that I couldn't sit next to Sigrid, or she'd hint that it was time for them to finish up their break.
+It was all subtly done. Had I ever thought to bite the bullet and justask Sigrid out, I don't know what Kelly would have done about it. But there was no danger of me doing that. I didn't have the nerve.
+In any case, we had other things to worry about. Our project had been delayed by a month, and then by another. Head Office was taking an interest in the state of things, and they were not happy. I gather they had communicated to Alistair that coming second might have been impressive in the Olympics but was rather less acceptable in a two-horse race, and that we needed to shape up and start delivering.
+The first consequence of this was an increase in the length and frequency of Alistair's speeches, which mysteriously failed to motivate us. He also took to micro-managing, which made things all the worse, since we had to spend much of our time explaining the detail of our work to somebody incapable of grasping it. With PRG on track to miss yet another deadline, Alistair resorted to desperate measures.
+"Next Friday," he announced, "we will be going on a team-building retreat. We'll all be picked up from the front of the office at eight AM sharp."
+"What time do we get back?" somebody asked.
+"Around seven PM."
+There was a quiet, collective groan. Somebody muttered about childcare.
+"I expect everybody to attend, and to put their best into it. Remember, when your competitors give a hundred and ten per cent..."
+"We give a hundred and twenty!" we chorused, and I felt a little part of my soul dying.
+* * * * *
+I arrived a little early on Friday, so I was out the front waiting with a few others when the black bus labelled VERSATILE CORPORATE DYNAMICS pulled up and two women got out.
+The first was an impossibly chirpy blonde in a bright blue dress that hugged her figure. Her head bobbed from side to side as she talked. "Hellooeverybody! I'm Cherie! You must be the JCN group!"
+Alistair, who had been counting us, bustled over to meet her. "Alistair Barker. We're just waiting on a few others."
+"No problem." That was the second woman, who had just stepped down from the bus.
+Where Cherie was all bubble and smiles, this one looked business. I couldn't easily place her age, or even her ancestry; she might have been twenty-five or fifty, Anglo or Asian or some kind of mixture, for all that I could tell. Her hair was black, tied back in a neat bun, and she wore half-moon glasses that reminded me of my old headmistress. When the sun caught them, I saw the lenses were shaded with just a hint of purple, and that was the only trace of colour in her wardrobe. Her jacket and skirt were charcoal-grey, and she wore three-inch black stilettos.
+They hurried us onto the bus, with Cherie taking our names as we boarded. Kelly had already glommed on to Sigrid, so I settled for a place up the back next to Anh, one of my fellow developers.
+Once Alistair was satisfied with the head count, Cherie gave the word to the bus driver and we pulled out. Ashley stood at the front, facing us, and addressed us over the PA.
+"Hello everybody. I'm Ashley, your host and facilitator today. You've met my assistant Cherie, and our driver is Derek. In a moment I'll tell you some more about what we have planned, but first I want to set a few ground rules.
+"Rule number one, we want everybody to stay focussed on the activities we have planned. That means no distractions, no phones, no checking your watches. I promise we'll have you back at the office by seven, and until then we want your full attention. I know it's hard to break that habit of checking your messages, so Cherie will be coming through the bus now to collect all your phones, watches, and so on, and to confirm any dietary requirements. Please talk to Cherie if you have a genuine need to hang on to them."
+Cherie stood up, holding a large sack in one hand and a clipboard in the other, and began working her way along the aisle starting with Alistair. Into the bag went his Rolex and Blackberry, she made a brief note on her clipboard, and then she continued down the bus.
+Ashley continued. "Rule number two, you can say no to any activity. Today is about pushing your boundaries and discovering what you're capable of, and what makes it meaningful is that you choose to do it. We'd like you to stay with us for the whole day, but we're not going to push anybody further than they're willing to go."
+I doubted Alistair would be happy with anybody exercising that option.
+"Rule number three, we want everybody to feelsafepushing those boundaries. When someone is willing to get out there and make themselves vulnerable, we want everybody to respect the courage that takes. Nobody is to be shamed for being honest today, okay?"
+We mumbled "okay".
+"Now, sit back and relax and we'll be there soon."
+Ashley said something to the bus driver, and small TV monitors descended from the ceiling, playing a video. It began with slightly dated-looking footage of happy people looking productive in an office, accompanied by synthesiser music that sounded right out of the 1980s. The music culminated with a breathless female choir whisper-singing:
+"Versatile - Corporate -Dynamics!"
+Anh turned and whispered to me, "Boy, they must have paid a fortune for that song-writing."
+"Ha. This is going to be terrible."
+The office scene continued, panning across acres of improbably cheerful people bustling around clean cubicles and verdant pot-plants, and then to my surprise Ashley walked into shot. She smiled at two people having a business discussion over a water cooler, and then turned to address the camera. A caption introduced her as "Dr. Ashley Marchand, Occupational Psychologist".
+"I'm standing in the office of Umbrella Insurance. It's been a record-breaking year for Umbrella, increasing market share by thirteen per cent and with staff productivity eighteen per cent higher than the market leader. But just five years ago, things here were very different..."
+The scene dissolved into a flashback: the same office, but with everybody looking grumpy and sullen. The background music was tense, the lighting was dull, even the potted plants looked unhealthy. People argued in the background, or scuttled past one another without speaking.
+"Umbrella was on the verge of bankruptcy, all because of negative social dynamics. I'm going to show you how we turned that around..."
+The video went on for quite a while. It'd show an example of people having a bad interaction, then Ashley would talk about what had gone wrong, and then she'd show how people handled the same situation after Versatile Corporate Dynamics (TM) had worked their magic.
+The message was simple enough. An organisation's success is largely dependent on its staff being able to work together, which requires open, honest communication and commitment to the team's success. But people and organisations slip into negative patterns that prevent them from trusting one another, so they build walls and stop communicating, driven by rivalry, fear, insecurity. Nothing ground-breaking, but the way Ashley put these concepts, it seemed so obvious that this was the key to a productive workplace.
+I was already thinking of how some of our own problems fit in with the sort of ideas Ashley had presented, when I was distracted from that chain of thought by Cherie.
+"Hi! Can I get your names please, and any dietary requirements?" Anh and I told her: him vegetarian, me allergic to fish. "And your phones and watches please?"
+I didn't mind the interruption. While my heart yearned only for Sigrid, it wasn't the only organ in my body, and Cherie wasverypleasant to look at. But it only took a moment for her to collect our details and our electronics, and then she was gone, heading back to the front of the bus.
+When I tuned back in to the video, it was just finishing up. "Today," said Ashley, "we want to show you how you can change your business and your life by making positive social dynamics work foryou. I hope you're ready to challenge yourself!"
+Then the picture faded out, and in case we'd forgotten the company's name, they sang it again: "Versatile - Corporate -Dynamics!"
+I hadn't been paying much attention to our route, but I'd vaguely noticed the stop-start-turn-stop of city traffic. I looked out the window just in time to see the bus turn into an underground car park. We drove down ramps, level after level, and then at last the bus pulled to a stop. Cherie took the mike. "Okay everybody, we're here! Please come with me!"
+She counted us off the bus, and after a brief elevator ride we found ourselves in one of those inner-city convention spaces you can hire by the hour. It felt soulless. The walls were bare and windowless, their flat expanse broken only by a couple of whiteboards and the necessary doors to lifts, toilets, and break room. The carpet was an uninspiring mottled grey. There was a table at one side, on which sat a couple of boxes marked with the VCD logo. Next to that, for some reason, was an electric shredder.
+Oddly enough, there were no chairs. Instead there were beanbags. Lots and lots of beanbags, large and small, in a variety of colours and patterns, scattered all round the floor.
+"All right!" said Cherie, as the door closed behind the last of the stragglers. "Could everybody please come and get a pen and a notepad? We're going to do a little activity. Once you've got yours, please find a spot and make yourself comfortable."
+I collected mine and then found myself a beanbag. I would have sat near Sigrid, but of course Kelly had steered her to a spot where there were only enough bags left for the two of them, so instead I sat back in a corner.
+"Now," said Ashley, "we're going to start with something a bit challenging. Let's think about secrets. I want each of you to think of at least three secrets about work. Something that's making your job harder, or that you feel bad about. Something that's weighing you down. Something you can't tell toanybody. Then I want you to write those secrets down, making sure nobody else sees them."
+She held up one of the notepads, and tore out a sheet. "Then once you've written down your secrets, you're going to fold up the page like this, and you'll bring it up to the front... and you're going toshredit."
+Cherie flicked a switch, and Ashley lowered her paper towards the shredder. One moment it was in her hand; the next, there was a briefblurrrtand tiny fragments of paper were fluttering to the bottom of the clear bag under the shredder.
+"Remember, nobody will see what you write. That's a promise. Just be honest with yourself, and write something that matters to you. We'll give you a few minutes to think about it."
+I was glad to be in the corner, where I didn't have to worry about anybody behind me glimpsing what I wrote. Once I figured out what to write, that was. I didn't have any difficulty thinking of things that were bugging me at work; the real challenge was keeping it down to a single page.
+I wrote a few, then a couple more in smaller print, and looked around the room wondering what other people were writing. I was about to fold my sheet when I realised I hadn't put down the most important thing. The pad was small, and most of the space was filled, but I found just enough room in the margin to squeeze it in.
+I want to ask Sigrid out but I don't know how.
+Then I did fold my sheet, double and triple until I could hide it inside a closed hand, and I walked up to the front. Most of the others were ahead of me, and I could hear the shredder working in bursts. Then it was my turn. I had barely touched the paper to the shredder's maw before it was pulled out of my grasp, and in an instant of noise my confession of desire was reduced to confetti, jumbled in with the debris of a hundred other secrets.
+I turned to walk back to my beanbag. Before I had taken three steps, Ashley caught me by the arm. "Wait a moment, Timothy."
+Behind me, the shredder chewed through one last page, and my co-workers returned to their places. "Now," she said, speaking loud enough for the whole room, "Timothy, how did you feel when you dropped your secrets into the shredder?"
+I cleared my throat. "It felt... good? Sort of liberating?"
+She nodded, and turned to the audience. "Who else felt like that? Put your hands up if you did." About half of them raised their hands immediately, and most of the others soon followed their peers.
+I looked over at Sigrid, who was grinning at me with her hand high in the air. The only holdout I could see now was Kelly, whose arms were folded tightly in front of her.
+"Great," Ashley said, "that's great. Now, who wants to feel like that more often?"
+Most of the people in the room mumbled, "I do."
+"Let me hear that again."
+"I do!"
+"Excellent. Today we're going to work on how you can feel like thatall the time! Thank you, Timothy."
+I thought we were done, and I started to walk back, but Ashley held up her hand. "One more thing, Timothy. When I asked you that question in front of all your colleagues here, how didthatmake you feel?"
+"Uh. A little bit nervous?"
+"Embarrassed?"
+I nodded. "Yeah."
+"But you still answered honestly." She turned back to the group. "Right now, I expect not all of you trust one another, not all of you get along." That was putting it mildly. "We understand it can feel uncomfortable to share truths in front of your co-workers, especially when things have been a little... dysfunctional. That's exactly why it's so important that you push yourselves today. To encourage that kind of behaviour, we're going to have a little incentive scheme."
+I noticed Cherie was at the whiteboard, drawing up some kind of grid, and writing everybody's names down one side. I could hear the whiteboard marker going squeak-squeak-squeak.
+"When we see people stepping beyond their comfort zone, getting into the spirit of today's activities, demonstrating positive dynamics, Cherie and I are going to be awarding Participation Points. Cherie, let's start by marking up two PPs for Timothy here." And despite my cynicism, I felt myself warming to Ashley. It's hard not to respect somebody who thinks well of you.
+"Today is about learning to grow, and it's so much easier to grow when you have support and encouragement from those around you. We want you to get lots of practice lifting one another up today. So to help with that, we're going to give each of you a support team, and you'll be responsible for boosting the other people in your team. At the end of the day, we're going to total up the scores for each team, and we'll have a little prize for the team with the most points. So you have an incentive to support your team... yes, is that a question?"
+The raised hand belonged to Jenny, another member of our development team. "Does that mean we're competing against the other teams? Shouldn't weallbe working with one another?"
+"That's a very good question! Yes, you're absolutely right. We want every one of you encouraging every one. But a group of forty is too much to start with. People get forgotten, and it's too hard to let go of the negative patterns that have already developed. With a team of five, you can look out for every person in your team, and you can really focus on unlearning those negative patterns and building positives. Once you've practised that on a small scale, then you'll find yourself starting to extend those good behaviours to the larger group. By the end of the day, I hope we'll have all of you singing in harmony. Does that answer your question?"
+"Yes, thank you."
+Ashley nodded, and behind her, Cherie marked up one point for Jenny. "By my count we have exactly forty today, so that makes the groups easy. Cherie, have you assigned the teams?"
+"I have!" Cherie tipped out a bag of little tin badges onto the table and picked up a checklist. "Alistair! You're on Team Blue. Come and get your badge. Anh, Team White! Barbara, Team..."
+She was going through the list alphabetically by first name, and I listened out for three names in particular.
+"Kelly, Team Blue!"
+I watched her take her badge, pin it on, and sit back next to Sigrid. By then Cherie was already getting through the Rs.
+"Sigrid, Team Green!"
+She smiled at Kelly and shrugged, as if to say "oh well, never mind".
+Please please please,I thought...
+"Timothy, Team Green!"
+I sprang to my feet and strode to the front. Sigrid was just coming back, and we exchanged smiles in passing. Walking back, I pinned the dinky little green badge to my shirt, stealing another glance at Kelly. She was stony-faced.
+The others on our team were Margaret (Alistair's PA, the one who'd been feuding with Kathleen); Toby, yet another of my development team-mates; and Jennifer, from HR.
+Once everybody had a team, Cherie gave us our next instructions. "Let's everyone move so you're standing with your team. We're going to do a little exercise called 'trust falls'..."
+I remembered those from a school exercise: one person stands with their back to the rest of their group and falls backwards, trusting that their friends will catch them before they crack their head on the floor. I'd never been able to do it properly; I tried, but always lost my nerve at the last minute, folding at the knees instead of falling straight back like I was supposed to.
+But this time was different. Sigrid went first, and she kept her legs perfectly straight, toppling back into our arms. After that, I had no choice but to shut my eyes and put my faith in her to catch me.
+It was the most physical contact I'd ever had with Sigrid. Mercifully, I had outgrown the adolescent stage where that would have had me pitching a tent, but it was still distracting. I wanted to hug her, to hold her hand, and that felt so unattainable it hurt.
+"Well done, everybody!" said Cherie. "PPs for everybody!" She marked up a point for everybody—which of course had zero effect on the rankings—and Ashley addressed us again.
+"Now you've trusted one another with your lives, it should be easy to trust one another with the day-to-day stuff." She paused for a beat. "But it's not, is it? Humans are very social beings. Would you believe people are more afraid of public embarrassment than dying?"
+I could believe that.
+"Social status seems to matter more than life itself. So we're going to need all your help to get those communication channels unblocked, but I think you have what it takes. Next activity, in your groups, I want one person from each group to think of a challenge in their lives. Something from outside work. Then you're going to tell it to your group, and everybody else is going to listen. You don't need to offer any solutions. Just practice listening and accepting, making people feel comfortable sharing. We'll give you all five minutes, then we'll get each group to report back, and after that we'll break for morning tea. Time starts now!"
+We looked at one another. I couldn't think of anything but my difficulties getting my landlord to fix the stove, which didn't seem interesting enough to share. Margaret was shaking her head slowly. But Jennifer piped up.
+"My mum's getting pretty old, and she's starting to lose it. She's going to need a nursing home in a year or two. I think it'd be better if she moved in soon, while she's still got enough memory to learn where she is and get used to it. But she and Dad don't even want to think about it." She went on a little longer, talking about the challenges of caring for her parents, and we listened and made sympathetic noises. Toby mentioned that he'd dealt with something similar.
+Soon the five minutes were up, and Ashley called us all to report. She picked our team first, and Jennifer gave an abridged version of what she'd told us.
+Ashley nodded. "And how did the rest of the group make you feel?"
+"They were very good. They didn't make me feel like I was selfish for wanting to put Mum in care."
+"Good work. That's what we're trying to build today. Cherie, could you please give Jennifer three points for sharing, and one point each for the rest of Team Green?"
+Huh,I thought,that puts Jennifer one ahead of me. Maybe I should have put my hand up and talked about the oven.
+The other teams reported back one by one, and Ashley awarded points that varied according to how personal their stories were. Somebody had a bad tradesman who'd left their ceiling leaky and wouldn't fix it (two points); somebody else had lost their beloved dog (three points).
+The guy from Team Red clammed up when it came to his turn; I guess he'd been willing to share within his team, but not with all of us at once. Ashley assured him that this was quite okay, that everybody was allowed to opt out if they weren't comfortable. But he didn't get any points, and neither did his teammates.
+The last to report was Team Blue, and it was Kelly who stood up. She had recently had a major family argument, and now she and her parents weren't speaking. That earned her four points, putting her one ahead of me, and once again I regretted not volunteering.
+"Thank you, Kelly. We're going to break for morning tea in a moment, but just before that I want to try one thing. Now that we've had a little practice in trusting one another, I'd like to hear if anybody feels willing to share one of the secrets that you wrote down before. Anybody?"
+I wanted the points, but I wasn't sure if I wanted to share. While I was considering it, Leo from Graphics (Yellow Team) put his hand up.
+"Yes, Leo?"
+"I, I'm sure there's something stupid I'm missing, but I don't understand how to use the purchasing system. I know it's been explained to me and I just feel stupid asking again. So I always end up waiting for somebody else to notice when we're missing stuff and put an order in." He was blushing.
+"That's okay," said Kelly, "give me a yell on Monday and I'll show you how. It's tricky, I had trouble too when I was new."
+Ashley smiled. "Well done, both of you. Three points for Leo on Team Yellow, and two to Kelly, Team Blue, for giving such a validating response. Already you're starting to think outside your own little team."
+Goddammit.
+"Through the rest of the day, if anybody feels willing to share one of the secrets that you wrote down earlier, just put your hand up. I hope that as things progress, you'll feel safe sharing them, but it's always your choice. Now, I believe morning tea has arrived." She checked her watch. "Let's give it ten minutes and then we'll start back here."
+While I queued for coffee and pastries, I thought about secrets. Kelly was three points ahead of me. I couldn't let that stand. After the break, I was going to share a secret. I just hoped it was worth at least four points.
+Soon enough Cherie called time, and we filtered back into the main room. I waited for the right moment.
+"Does anybody know why I asked you to think of challenges fromoutsidework for the last session?" asked Ashley.
+We shook our heads.
+"Because as soon as we start talking about one another, that raises the stakes. It's human nature to feel threatened, to get defensive. So I wanted to start with something safer, and get you all some practice supporting one another. But sooner or later we need to have those difficult conversations. This is where it starts to get tough. Some of you may hear things that aren't easy to hear, but we have to get through that pain to make progress. Do you think you can do that?"
+"Uh-huh," I mumbled, and my colleagues made similar noises.
+"Do you think you can do that?"
+"Yes," we said, louder.
+"Do you believe it?" She raised her hands, and a shiver ran down my spine. "Do you BELIEVE it?"
+"YES!" we answered.
+"I believe in you. I believe you have the strength you need!" Her eyes were bright. Fervid, even. "This session, we're going to work on giving and receiving constructive criticism. Yes, Timothy?"
+I had my hand up. "Can I say one of my secrets?"
+"You certainly can."
+I glanced at Kelly out of the corner of my eye. She looked tense, and I suspected I wasn't the only one tracking our scores. "We had a problem a few months back. We did a lot of work from the wrong project specs, we wasted a lot of time. Anyway, I thought the specs looked wrong, but I didn't say anything because... because..."
+"You can say it, Timothy."
+I had every intention of saying it, but I wanted to make sure she knew it wasn't easy for me to say. More points that way, I hoped. "I felt like if I was wrong, I'd just look stupid in front of everybody. It just felt safer to keep quiet. And I thought, Howard knows so much, surely he'd have noticed if there was a problem."
+"Well," said Ashley, "that's an excellent example of the harm that negative dynamics can do. You didn't feel safe rocking the boat, even when it was headed for the reefs."
+I nodded.Come on, that's got to be at least three. Enough to equalise with Kelly.
+"Cherie, please mark up four PPs for Team Green, Timothy—"
+She was interrupted by the Irish lilt I'd come to know too well. I would've thought it pleasant if I didn't know the speaker. "Tim, I want you to know you're not the only one," said Kelly. "I'm not going to name names, but one of the other developers was telling me the same thing. They saw the problem too but they didn't want to second-guess Howard."
+Was that a tiny smirk on her face as she finished?
+"And thank you, Kelly. Cherie, two points for Kelly, Team Blue."
+Fuck you, Kelly. You want to screw me over by being supportive? Well, two can play at that game. And no names, bet you made the whole thing up to grub for points.
+In the next exercise Ashley had us talk within our teams about things we wanted to change at JCN, before reporting back to the main group. Sigrid suggested we look at ways to fix the problem I'd raised, by giving junior staff more encouragement to speak up in group meetings, and she and I had quite a productive session throwing ideas back and forth while the rest of our team egged us on.
+Our proposals were reasonable enough, but they were also pretty tame, with nothing likely to ruffle anybody's feathers. The other teams were also playing it safe, steering clear of anything that might seem too pointedly critical, and focussing on trivialities. Did anybody really believe that minor tweaks to our video-conference system or a change to the payment model for the milk club were our most pressing concerns?
+Ashley certainly didn't. "Thanks everybody, but I think some of you are still holding back. Nobody wants to make waves, do they?" She was walking around the room, looking at each of us in turn. "Confronting your colleagues feels risky, doesn't it? Taking risks is scary. But if you don't, if you can't, you're never going to get anywhere."
+She stopped for a spell, long enough that I began itching for somebody to break the silence. There wasn't even a clock ticking to mark time.
+"Does anybody have something more challenging to share? You have permission to offend."
+Silence again, longer and longer. Silence waiting for somebody, for anybody.
+I realised she was looking directly at me.
+This is probably the stupidest thing I've ever done,I thought,but you asked for it.And I stuck up my hand.
+"Yes, Timothy?"
+"This is a stupid thing but it's really bugging me. I'm going to say it. There's..."
+I swallowed.
+"There's no such thing as giving a hundred and twenty per cent. There just isn't. One hundred per cent is the most there is."
+Alistair was staring at me. Ashley was staring at me. Sigrid and Kelly were staring at me, as if they expected me to spontaneously combust, and I wondered if that might just happen.
+"Can you elaborate on that, Timothy?"
+"It's something that Alistair says all the time, and it just bugs me so much. He talks about us needing to give a hundred and twenty per cent. It doesn't make sense. A hundred per cent is the most we can give, by definition."
+"So what do you think Alistair means by it?"
+"I think... I guess it means he thinks we're holding back. That our 'one hundred per cent' is really just eighty per cent? So it just feels like an insult." I cut myself off, wondering if I'd gotten myself fired yet.
+"Does anybody else feel like that?"
+I heard muttered "uh-huh"s and saw a lot of people nodding. Sigrid. Anh. Jennifer. Even Kelly. Then Ashley turned away from me, and I shuddered in relief to be out of the spotlight.
+"Alistair. Do you think that's useful feedback for you to hear?"
+His mouth worked silently for a moment before he was able to vocalise. "Uh... yes."
+"Can you elaborate?"
+"It's, well, it's important for me to understand... how my communication style affects the team?" He was looking to Ashley for approval. She nodded, but kept looking as if there was still more for him to say. "And especially when it doesn't have the effect it's meant to have?"
+She nodded again. I realised she was shielding me by pushing him to commit to a reaction in front of the group so he couldn't lash out afterwards, and I was grateful to her. I did not consider, not then, that the threat Ashley was protecting me from was one of her own making.
+"Do you have anything you'd like to say to Timothy?"
+"Well, um, thank you for your honesty."
+"Excellent." Ashley was smiling like the cat who'd swallowed the canary. "Cherie, let's say... five points for Timothy, Team Green, and two points for Alistair, Team Blue? And let's all give Timothy and Alistair a big hand for that. I know that wasn't easy."
+They applauded, and I felt embarrassed and warm at the same time. It was the most appreciation I'd ever received in my time at JCN.
+Another hand went up.
+"Yes, Nicholas?"
+"We're an IT company, not a rowing team. I don't think Alistair knows the difference."
+Another hand went up, then another, and another. The dam had burst. Perhaps some of us were still playing for points, at first, but not for long. The mob had tasted blood, and there were scores to settle.
+It started at the ground level, with those of us who had the least invested in JCN. But like flame climbing an office tower, it soon spread to the managers. If I'd thoughtIhad grudges against Alistair after a few months working for him, they were nothing compared to those who'd known him for years. Ugly accusations spilled out, tales of major opportunities missed through his incompetence, short-sighted decisions that had cost the company millions.
+Every time, Ashley invited Alistair to say "thank you", and he did. I think that was the worst part of all. Some part of me knew this was getting out of hand, that we were far past what a team-building event should be. But the mob had built up too much momentum, and I didn't dare to stand in its way.
+Of course, one victim is never enough.
+"I want to talk about Kathleen," said Margaret. "My mother had a bad fall and my husband called. I was having morning tea. Kathleen took the call and told him she'd pass on the message right away." Her voice was quavering. "I didn't find out until he called back three hours later. Shediedand I never got to see her. Kathleen said she justforgot!"
+"That sounds very upsetting," said Ashley. "Kathleen, is there anything you want to say to that?"
+Kathleen shook her head, tight-lipped, and did not score any points.
+There was more. The denunciations flew, and I learned so much about my colleagues. Far too much. Who was buying school supplies on the business credit card. Who had a body odour problem. Who'd shagged whom, behind whose back, at the Christmas party. Heated accusations, hotly denied, about the identity of the Milk Bandit.
+I should have known that sooner or later the anger would turn in my direction, but I was unprepared when it happened.
+"Timothy. I want to say something about Timothy." It was Kelly. "You're always hovering around Sigrid. Making up bullshit excuses to pester her. It's so obvious you want to get in her pants. She'smyfriend, why can't you just leave us alone?"
+My face was burning. I hadn't realised my attraction had been so obvious, and I was all the angrier because she'd pre-empted my secret. "She's my friend too, she can talk to who she likes! Why do you have to be shitty about that?" I turned to look to Sigrid. She looked mortified, her arms folded tightly, and I couldn't tell which of us she was glaring at.
+Kelly started to reply, but Ashley held up a hand. "Thank you both. We'll pause there for now. Cherie, three points for Timothy and Kelly."
+She took a step back and raised her voice to carry through the room. "There's quite a lot going on here, isn't there? Now that we've brought these conflicts to the surface, we can really start addressing them. Let's see if we can't shift these negative dynamics back into positive territory."
+Ashley strolled over to the second whiteboard and wrote CONFLICT RESOLUTION at the top in perfectly neat letters. "Every conflict is different! There's no one-size-fits-all solution. But there are some useful techniques that often come in handy. We're going to try out several of them today."
+On the next line, she wrote OXYTOCIN. "Now, has anybody heard of oxytocin?"
+A few hands went up.
+"Would anybody like to tell the group what it is?"
+The hands went down again.
+"Oxytocin is a hormone that's important for social relationships in many different mammalian species including humans. When you pet a dog, or a mother holds her baby, that releases oxytocin, and that helps develop bonds. Chimpanzees do it by grooming one another. Did you know you share 98% of your DNA with chimps?"
+I did know that.
+"For the next part, I want some of you who are in conflict to help me show how we can use oxytocin methods to change the way you interact. Discuss among yourselves for a moment and then I'll take nominations."
+The atmosphere was febrile. People were still muttering about "fucking Alistair", and Margaret was looking daggers at Kathleen, who was on the verge of tears. Still flushed with embarrassment and anger, I tried to will myself into invisibility, and considered the situation.
+I've read a lot of psychology since that day, trying to make sense of what happened to us. I learned about Milgram and Zimbardo, dollar auctions and struggle sessions, and in hindsight I can admire the skill with which Ashley brought us to the boil. At the time, though, I didn't have the background to understand it. All I knew was that things were deeply fucked up, and that I wanted to keep my head down. Say nothing, keep out the way, mark time until we can go home.
+"All right, do we have some nominations for this activity?" Ashley surveyed the crowd. "Yes, Kathleen?"
+Her voice was quavering. "I will. If Margaret agrees."
+"Thank you, Kathleen. Cherie, could you please mark up four points? Now, Margaret, what do you think?"
+"Don't think this will make it all right, Kathleen! But if we have to do this..."
+"You don't have to," said Ashley. "It's always voluntary. Will you?"
+Margaret scowled. "Oh, all right."
+"Thank you! Cherie, four points for Margaret. Now, do we have anybody else?"
+I kept quiet.
+"Can I nominate somebody else?"
+The voice was behind me. It was Sigrid, risen to her feet.
+"You can," said Ashley.
+"Fine. Then I nominate Kelly and Timothy. I'm fed up with being in the middle of this pissing contest and pretending I don't see you looking daggers at one another. Sort it out, you two." She sat down again.
+"Kelly, Timothy? Do you agree?"
+I had no interest in making nice with Kelly—why should I? It wasn't me that started this. But if I said no, then Sigrid...
+"Okay. Whatever," I said. I could see Kelly working through the same calculus, coming to the same conclusion. "Yeah. I guess."
+"Thank you both. Three points each for Kelly and Timothy. That's enough for this activity, let's get started. Margaret and Kathleen, over here please."
+She showed them to two chairs. "Margaret, you sit in front, and Kathleen, you sit behind her. Now, once upon a time, your ancestors would have settled this by grooming, and that's just what we're going to do! But we're not going to have you pick fleas off one another. Cherie?"
+Ashley held out her hand, and Cherie gave her a hairbrush.
+"Don't worry, it's quite clean, brand new. Margaret, I want you to let out your hair. Kathleen, you're going to brush Margaret's hair. I don't want either of you to talk now, just keep on brushing until I ask you to stop. Does that make sense?"
+"Okay," said Kathleen. Margaret just shrugged, took out a couple of hairpins, and sat back. Kathleen started brushing cautiously.
+"Everybody, I want you to watch what's happening. See how Kathleen is focussing on Margaret? This is an act of service. It's a powerful way of establishing respect. Sometimes far more powerful than words. Keep on going, Kathleen.
+She turned to us, and I wondered how this was meant to work.
+"Now, with Timothy and Kelly, it's a different situation. Both of them are angry at one another. If I asked Timothy to brush Kelly's hair, he'd just feel like he was doing a favour for somebody who doesn't respect him, isn't that right?"
+I nodded.
+"And if I asked Kelly to brush Timothy, she'd feel the same way." Not that there was much to brush; I kept mine short. "So we're not going to take that approach. going to try something different. Martin, could you please change to a different beanbag?"
+Martin yielded his place the biggest of the beanbags, a black one in what might or might not have been real leather.
+"Thank you, Martin. Kelly and Timothy, I want you to lie in that beanbag and put your arms around one another."
+Kelly bristled visibly, and I wasn't far behind. "What?"
+"You're going to cuddle. Pretend you're hugging your parents, or your brother or sister."
+It was one of the most uncomfortable moments of my life. We did what we were told, me on the left and Kelly on the right, holding one another as cautiously as one might an unexploded bomb. It says something about the power Ashley had over us both that it seemed easier than refusing.
+"If you try anything funny," whispered Kelly, "my knee and your balls are going to be very closely acquainted."
+"You're not my type," I replied. I considered some more witty repartee, but there was no point in escalating things while we were stuck together. And we were getting closer together; the middle of the beanbag was settling under our combined weight, pushing us both towards the centre.
+"Physical touch helps release oxytocin," said Ashley, speaking over us to the crowd like a science teacher explaining the inner workings of a frog. "But it takes time. Let's help it along with a little music. Cherie?"
+A few seconds later, the music started up, and I felt Kelly tensing up even further. "Enya. Why did it have to be Enya?"
+"Not a fan, I take it."
+"It was good the first ten thousand times or so."
+"Well," said Ashley, "let's leave them alone for a while. The rest of us are going to work on a group exercise together."
+
+"That why you left Ireland?"
+"Na. That was more Bono's fault."
+"Really?"
+"No. Joking."
+"Clearly there are a lot of strong feelings about Alistair, and it's important we address that. Don't you agree, Alistair?"
+We lay together for a while, listening to Ashley recap some of the grievances that had been raised earlier. She had an amazing memory for people's grudges, repeating them down to the tiniest details of Alistair's crimes against good office management, drawing them together into an irrefutable indictment. It was seductive and horrible, like a car-crash that you can't help watching.
+"This is fucked up," I whispered.
+"Yeah. It's like she's making a lynch mob. I don't wanna hear it."
+"Me neither." Well, I did and I didn't, but I knew I shouldn't. "Hey, my arm is falling asleep, can we move a bit?"
+"Yeah, it's been sticking into my ribs." We squirmed around, repositioning limbs. "How's that?"
+"Better, thanks. You?"
+"Good."
+Somewhere along the way, I realised, the tension between us had diminished. Not altogether gone, but reduced. We were both making an effort to get along, and just knowing that Kelly was making that same effort made a difference.
+"Look, Kelly, you're right I have feelings for Sigrid. I don't apologise for that. But I'm not trying to break up your friendship. That's no skin off my nose."
+"Yeah." She sighed. "Yeah, I know I haven't been fair on you. It's just... not that simple. You don't mean to hurt us, but you are."
+"Healing requires forgiveness, and forgiveness requires atonement."
+"I don't get it."
+"You haven't noticed, have you?"
+"Noticed what?"
+She sighed. "I'm in love with her, you stupid bastard. I was starting to feel like maybe she felt the same. I was waiting for the right time to tell her. Then you came into the picture and now I feel like she's slipping away from me."
+I said nothing.
+"I'm not proud of how I've handled it. I shouldn't have gone at you like that."
+She was shuddering, and without thinking about it I squeezed her. "I didn't know."
+"Would it have made a difference?"
+"I don't know. I wouldn't have hated you for it, though."
+"Think about your anger. If there were no consequences, what would you want to do to Alistair? Let's go around the circle. Don't be afraid to speak your mind."
+"Ugh, what's the use? It's not like she would've wanted me anyway."
+"Do you know that?"
+"Well..."
+"You've never told her. You don't know." Realisation struck. "Oh fuck, you're the lesbian version of me."
+"Jesus, Tim, that's an awful thing to say."
+"Well, that's... creative. Obviously not something we can legally do, but definitely creative."
+
+"Sorry, but it's true."
+"Bollocks. For one thing, new boy, I'm the original."
+"So that makes me version 2.0?"
+I thought it was clever, but she ignored my snappy comeback. "For another, you don't have my dress sense."
+"Maybe not, but my taste in women is excellent."
+She sighed. "Got me there. She is something, isn't she?"
+"Uh huh. That thing she does when she's thinking hard and she starts humming?"
+"Oh yeah. Should be annoying, but it's not."
+"And I know it's superficial, but I have a weakness for pixie cuts."
+"You're welcome."
+"That was your idea?"
+"She wanted advice on a new look. Two weeks before you showed up."
+"Sometimes an act of punishment clears the air. Don't you think it's easier to move on when you feel like justice has been done?"
+
+"Do you think she's going to be okay over there, in the middle of that?"
+Kelly stiffened. "No. No, I don't."
+While Ashley encouraged the others to discuss what form justice might take, Cherie came back to visit us. "How are you two doing?"
+"Okay," said Kelly, and I said "Making progress."
+"That's great! When you feel things between you are back on track, you can come and join the rest of us."
+"Uh, actually, Cherie, can you ask Sigrid over here? There's some stuff we need to discuss with her."
+"Of course!"
+When Cherie was safely out of range, Kelly whispered "What are you doing?"
+"Trying to get her out ofthat. You heard the lady, if we're finished then we have to join the clusterfuck, so we need to drag this out as long as possible. Besides, I owe you."
+Sigrid looked relieved to be away from Ashley and Alistair. "What's up?"
+"Sigrid, come hug with us. We need you to help us work things out. Plus, I figured out, going from two to three means three times the contact so three times the oxytocin!" I made sure Cherie heard that last bit.
+She lay on top of us, both of us drawing her into a group hug. "Have you seen what's going on over there?" she whispered. "She's got Alistair to strip down to his underpants."
+"Let's have you all form an orderly queue. Who's first? Howard?"
+"Plan is to stay here as long as possible. Stay out of that mess. Now, Kelly has something to tell you."
+"What?" hissed Kelly. "I didn't agree to that."
+"Just tell her, Kelly. Please."
+I felt Kelly suck in breath, hold it a little while. "Sigrid, I think I'm in love with you." The hug tightened, and I didn't know whether it was Kelly or Sigrid or me doing it. "Didn't know how to say it without scaring you away."
+"Oh, Kelly. Takes more than that to scare me away from a friend."
+"And Tim. Tell her yours."
+Whack. A gasp of pain. Whack.
+I tried to focus, tried to block out the noises from outside the three of us.
+"Sigrid, I... look, I haven't known you long enough to say I'm in love with you. But I feel like I'm heading that way. I want to find out where it goes."
+Sigrid sighed, though she didn't seem exactly unhappy.
+"Howard, that's enough to start with, we need to make sure everybody gets a turn. Alistair, would you like to say thank-you to Howard?"
+
+"This is not how I expected things to go. Better, I guess? Better than when you two were just sulking at one another. But much more complicated."
+"Tell me about it," I muttered. It had been easier when I could just write Kelly off as a bitch. I couldn't help but speculate about the family argument she'd mentioned earlier in the day. That seemed like a long way away now.
+Whack. Whack. Whack.
+Sigrid's knee was pressing uncomfortably into my leg, and I shifted to a better position, using that as an excuse to steal a peek at what our "facilitators" were up to.
+Alistair was bent over the table. His trousers were around his ankles, and he quivered as Isabelle from Facilities administered a brisk series of smacks. But also—
+"They're looking at us. Talking."
+"Shit." Above me, Sigrid glanced over. "Cherie's coming over."
+"Look busy," Kelly whispered.
+"Hello again!" chirped Cherie. "You look like you're just about done there—"
+Sigrid kissed Kelly. I heard more than saw it, and I felt a pang in my heart. I should've seen the signs. I was sad, but I couldn't find any anger for Kelly any more.
+"—or maybe not!"
+Then Sigrid turned and kissed me, and at first I thought I must have been drugged to hallucinate it. But her hand was under my back, fingers pressing into my ribs. It was only a kiss on the lips, but my heart was hammering almost to burst.
+Then it was Kelly's turn again, and then mine, and then Sigrid looked up at Cherie. "I want to try something. An experiment."
+"You're here to learn!"
+And Cherie walked off to check on Kathleen and Margaret. I could hear them talking now, agitated but perhaps not angry.
+"What the fuck, Sigrid." I can't even remember if that was Kelly or me.
+"You said to look busy." She was still moving between us, bestowing little kisses. "It was the only thing I could think of. Besides, I've figured something out."
+I mumbled a question.
+"I've read about shit like this." She kissed me again, and I wondered how much of the taste was her and how much Kelly. "Gangs and cults. Hazing. When you join they make you do something fucked up. Kill somebody or humiliate yourself, some sort of major transgression. It strengthens commitment and it means you have that secret to hold the gang together."
+"Okay, yeah, getting that vibe here," said Kelly.
+"Alistair, I think if you pulled those boxers down a few inches, so people can see the effect, that would be very helpful, but it's entirely your choice. Thank you, Alistair! My, isn't he getting red! You can really see the handprints."
+
+"And you don't want to be the person who chickens out. You do that, you're threatening the system, and everybody has already invested in the system. If it's not the system, you're just some crazy who spanked their boss."
+I saw her point. I didn't think Ashley or Cherie would be stupid enough to do anything illegal, but they didn't have to. They'd built their very own lynch mob.
+"So." Her hand slipped between the buttons of my shirt, fingertips on my chest. From the balance of her body, I could feel she was doing something with Kelly too, but I couldn't tell what. "Those two want us to transgress. I don't think they care justhowwe transgress as long as it's visible. You can go join up to take a swing at Alistair if that's how you want to do it, but I know what I'd prefer."
+"Alistair, Nicholas has asked to use his belt. Is that all right with you? Oh, splendid!"
+
+I couldn't think of a way to answer that didn't make me sound like a horny teenager, so I just said nothing and started stroking her back. At some point my hand bumped into Kelly's, and we both pulled back.
+"What are the rules?" Kelly whispered.
+"I don't know," Sigrid replied. "Just... see what we can live with, I guess?" She dipped to kiss the hollow of Kelly's throat. I felt Kelly sigh. "But I'm not expecting to keep my clothes on."
+"Okay." Kelly was caressing Sigrid's face. "I'm not doing anything with Tim, though."
+"That's fair," I said. "If my hands get anywhere they shouldn't, let me know."
+"Oh, you'll kn—mmph." Sigrid cut her off with another kiss.
+Kelly had her hand between Sigrid's shoulders, so I moved mine down, stroking her hips. She seemed to like that; I could feel that she was concentrating on Kelly just then, but she squeezed my arm as if to say:more please. I slid my hand further down, stroking her arse, slipping my thumb under her waistband to make contact with the skin of her back.
+After a while I heard her whisper to Kelly, "Tim's turn." She shifted so we were cheek-to-cheek, and she breathed slow and warm on my ear. I extricated my right arm from under Kelly and brought it between us, running my fingers along her chin, down her neck to the top button of her blouse.
+"Mmm," she whispered. "You can play, but don't undress me yet. We need to make this last a while."
+I stroked her chest, my other hand on her arse pulling her close against me, and she squeezed her knees around my leg. She kissed me, deeply this time, her tongue wriggling against mine... and then she switched her attention back to Kelly for a while, although she still had one hand inside my shirt, fingertips against my ribs.
+The switching was frustrating, but maybe it was for the best. I would've found it difficult to keep control with Sigrid's attention focussed on me. As it was, it took much of my willpower to keep my erection in check.
+At some point, when Kelly returned her to me, I noticed that a button near the middle of Sigrid's blouse was now undone. I slipped my hand inside and found the edge of her bra, forayed up to the top of the cup and ran my fingertips along her smooth, yielding skin.
+"Mmm." She'd tugged my shirt loose from my waistband and had her hand inside, stroking my back, fingertips pressing softly against me.
+I traced the edge of the cup, then curled my fingers into it, working my hand under the cup.
+"Naughty boy."
+"Is that good?" I whispered, as my fingers found the soft bump of her nipple, as my other hand slipped under her waistband and I caressed her arse through her panties.
+"Oh, it... yes, but don't let them see you, not yet. Take it slow." She twisted a little, and I felt movement in the space between us, and realised Kelly was stroking Sigrid's belly. "Mmm, that's nice, keep going Kel." Her waistband tightened against my wrist, and I realised that somewhere out of sight, Kelly's hand had slipped inside it. By now my other hand was well and truly inside her cup, grasping her, squeezing her. My leg bumped against Kelly's, and I realised the two of them had kicked off their shoes.
+"Tell me what you want to do with me. Both of you."
+"I want to lick you," said Kelly. "Kiss you all over undress you and taste you and show you what I can do for you with my fingers and my tongue."
+"I want to see you," I said. "I want to run run my hands all over you. And, yeah, what Kelly said. She has good ideas."
+"Is that all, Tim?" asked Sigrid. "Nothing else?" Her hand was at my front now, her palm pressed against the bulge. "Feels like there might be some other stuff." She gave me a little squeeze. "Remember, we're sharing our secrets today."
+"Yeah, ah... easy... go easy. Yes, I want you, Sigrid." I caught her nipple between my fingers, pinched it, felt her gasp.
+"Say it, Tim." I felt her fingernails on my belly, just above my belt, very close to where my cock was trying to escape. "How do you want me? What do you want to do withthis?" She squeezed me again.
+"God, Sigrid, I want to be inside you. I need you."
+"I thought you might. And if you were inside me, Tim... give me your hand." She took my hand out of her top, drew it down to her waist. "Feel me." I did what I was told, sliding under her waistband, over her panties with the ever-so-slight springiness of her hair, down to where everything came together. Warm, damp, even through the panties. Then she eased my hand back out.
+"If you were in me, Tim." She squeezed my cock, tugging softly downwards. "How long do you think you'd last?"
+"Uh... not long."
+"Mmm." She lifted her hand, and only her fingertips stayed, tickling along my length through my clothes. "I thought that might be the case. I think I can sort something out... don't go anywhere."
+She pulled back and sat up, smiling down at the two of us. Past her, I could see a few of the tormenters had turned to look at us—Anh was one of them—but I didn't want to look at them, didn't want to hear the noises Alistair was making.
+"Do you trust me?" she asked. "Both of you?"
+I said "yes" and beside me I saw Kelly nod.
+"I care about both of you," Sigrid said. "Both of you matter. I need you to remember that. Neither of you's going to be missing out. Trust me." Then she reached between us, took my right hand, and pressed it into Kelly's left, weaving our fingers together. She squeezed her hand around ours, as if to say:keep hold.
+Ashley was watching us, and her lip was curling in a smile. I didn't want to think about that either. Just Sigrid.
+"Kelly." She shuffled over to sit astride her, took Kelly's right hand, brought it to her face. She kissed Kelly's palm, then guided her hand down to her chest. "I think you could help me with these buttons."
+"Right. Yes." Kelly started at the top, working one-handed on the buttons of Sigrid's top. I felt another pang of jealousy, and then Kelly squeezed my hand, and that felt okay.
+I had to admit, Kelly knew what she was doing. Every time she popped another button, she took a moment to caress Sigrid's skin on the way down to the next, and I saw the way Sigrid's lips parted every time it happened. She was stroking Kelly's throat, steadying herself with her other hand planted on the beanbag.
+There were eyes on us. I felt them. I ignored them.
+I wasn't sure what my role was meant to be, whether I was just supposed to observe this duet between Kelly and Sigrid, or if I should be assisting them. With my free hand I reached across to stroke Sigrid's thigh; she turned for a moment and smiled at me, but then returned to Kelly, and I didn't try to progress things any further.
+Her blouse hung open, and now I could see the places where my fingers had been. Kelly ran a finger up her collarbone, eased the top back over Sigrid's shoulder; then she did the same on the other side, and Sigrid leant back and shrugged it off.
+Somebody was shouting at Alistair. There was a cry of pain. I tuned it out.
+"You're beautiful," I said to Sigrid, and squeezed Kelly's hand.
+"I feel beautiful." She studied Kelly's face, trailed a finger over her lips, slipped it into Kelly's mouth. "So, Kelly, how far do the freckles go?" Kelly started to say something, but Sigrid squeezed Kelly's lips together. "No, show me."
+Kelly unbuttoned her own top, with some assistance from Sigrid. She had some kind of sports bra underneath. I saw Sigrid tickle Kelly's belly-button—Kelly squirmed—and then Sigrid said, "I can see you've been sunbathing. Do you keep your bikini top on, or...?"
+Kelly made some kind of noise, her mouth still held closed.
+"Can't understand you, Kel. I suppose I'll just have to look for myself." She stooped, put both her hands on Kelly's ribs, slid them up under the bra and pushed it up.
+I looked away, concentrating on Sigrid. It was perhaps the first time I'd passed up the chance to ogle a topless woman; it would've felt like a breach of Kelly's trust. Besides, watching Sigrid's reaction was reward in itself.
+"Oh my, youhavegot a few here." She was tapping Kelly's chest with her fingers. "There, and there, andthere. Let me do something about that."
+And she lay down, kissing where the freckles were—I suppose—and Kelly's fingers tightened around mine. I heard the soft wet sounds of her mouth and her tongue, saw her nuzzling at Kelly's bosom, and I knew she was suckling by the sharp way Kelly drew in breath.
+Then she sat back again, drew Kelly's hand to the fastening at the front of her bra. "Would you like to see me?"
+"Yes," said Kelly, and she tried to release the bra, but she couldn't negotiate the catch single-handed the way she had with the buttons. Sigrid chuckled, and reached for the catch herself. "It's a tricky one. Allow me." A little tension, a little twist, and the hooks released; the cups hung loose, and Kelly pushed them aside, fingertips dimpling Sigrid's breasts, lifting her curves, squeezing her between thumb and forefinger.
+"Sit up, both of you."
+In that beanbag it was easier said than done, and I had to let go of Kelly's hand, but we managed it. Straddling Kelly, Sigrid wriggled forward—she almost fell over as the beanbag shifted under her, but we caught her—and she reached for us.
+"See, there's enough of me for both of you." She pulled us in to her, guiding our mouths to her breasts. My cock twitched, cramped beyond comfort in my pants, and I swear my lips tingled as I touched her. Kelly's hair tickled my cheek, and Sigrid made happy little noises in her throat as both of us tended to her. I had my hand at her back, fingers against her spine while I warmed her with my lips, circumnavigated her areola with my tongue-tip, drew her into my mouth. I wasn't paying attention to what Kelly was doing, but between us it seemed to be very much to Sigrid's liking. Her nails pricked at my scalp.
+The position was awkward. I think we were all straining our muscles to keep our balance, and it would have been much easier (and just as pleasant) lying down. But, I realised later, we would have been much less exposed, and that was the point of the exercise.
+"While Alistair's taking a break, let's talk about what we can learn from Sigrid, Kelly, and Timothy. Skin-to-skin contact is particularly effective at releasing oxytocin. Obviously some things aren't appropriate for the office, but there's one form of skin-to-skin contact that we can use. Anybody? That's right, a handshake!"
+
+Sigrid was straddling Kelly, and her skirt had ridden up above her knees. I saw her reach for Kelly's wrist, saw her guide Kelly's hand under her skirt. After a while she wriggled forward a little, and Kelly's arm began to move rhythmically, and I felt the tension growing in Sigrid's body.
+"Mmm, yes, that's sonice.Don't stop, Kel. Kiss me." She pulled Kelly up to meet her lips, and with her other hand reached for Kelly's breast, caught her nipple. She was rocking her hips, short fast motions, the tempo matching that of Kelly's hand. I realised that once again I'd slipped into the secondary role, and I felt a moment of insecurity, and I had to remind myself of what she'd said:Trust me. Neither of you are going to miss out.
+
+"Ugh, yes, just like tha-at." She was pinching her own nipple now, squeezing between thumb and forefinger, jerking hard against Kelly's hand, and I could smell her arousal and hear the slick sound as Kelly's fingers penetrated her. "Oh, oh, aah! Ah, ah, ah! Oh,yes,Kelly." I still had her breast in my mouth, and I nipped at her nipple, flicking it with my tongue. "Oh, yes, yes... oh."
+She pushed me gently away from her breast and sat back, eyes dreamy. "Kel, that was lovely, and don't doubt that you'll get yours. But right now I think Tim needs some attention."
+I looked at her pleadingly.
+She pressed a fingertip to my sternum, pushed me back so I was lying on the beanbag once more. "You still seem to be fully dressed. Let's deal with that." She sat back to untie my shoes—she and Kelly had kicked theirs off long ago, and mine now joined them on the floor—and then stretched out to lie beside me. She was playing with my shirt buttons, slowly teasing them undone, and her other hand had found its way back to my cock.
+"You feel a bit cramped there. All pent up. We should do something about that."
+Her fingers stroked my belly, pushed down just under my belt, and I flinched as they found the head of my cock. She circled the tip with her fingertip, and then as I was about to thrust into her hand she pulled back out. "Let's make you a little more comfortable."
+She was lying half on top of me now, and I was running my fingers through her short-cut hair. I felt her tugging at my belt, felt it pull tight and then release, felt her palm pressing against my bulk as she unfastened my fly button. That was a relief, the pressure easing. "Mmm. You're sticking out there." Her fingers traced my length through my briefs, running up to the elastic and past them, encountering skin. Then she encircled me, squeezed me, slowly pulled down, and up, and down. It felt fantastic. But...
+"Sigrid, I don't think I can take much of that."
+"That's quite all right." She kissed me on the lips, shifted down a little, kissed me on the chin. "Hips up a moment." I obeyed, and she tugged my pants and underwear down to my ankles—from there I kicked them off—before her hand returned, encircling me again, slowly stroking. Nuzzling against my cheek, she whispered, "I think we still have at least an hour to kill." Then, in a louder voice for Cherie's benefit, "I thought we might take the edge off, and then we don't need to rush afterwards."
+Someone was flogging Alistair again. I tuned it out.
+"What did you have in mind?" I asked.
+"Well." She kissed my lips again, then my chin, then the hollow of my throat. "I'm just going to keep going and I think you'll figure it out." She kissed my chest, bit gently at my nipple, and her hand continued to stroke.
+A trail of kisses down my ribs, down my belly. Her lips so close to me I could feel the heat of her breath...
+I reached out beside me, groped for Kelly's hand, found it and clasped it in mine again. I squeezed, and she squeezed back.
+Sigrid's tongue flicked at me, just touching the head of my cock, and I twitched. She nuzzled me with pursed lips, holding my shaft firmly. Then her tongue flicked out again, this time circling the head, wetting me, and then she gave me another squeeze and engulfed me.
+For a little while she held me there, motionless in her mouth, as her tongue swirled around me. I squirmed as she hit the sensitive spot on the underside of the head, and feeling my reaction she did it again. Even the distant sound of Ashley lecturing the group about our entanglement couldn't hold my attention, not when I was lost in the heat of Sigrid's mouth and the pressure of her slender fingers wrapped around me.
+I had been painfully hard even before she went down on me, and once she started stroking me—slow at first, quickly building speed—I knew I couldn't last much long. Barely remembering my manners, I managed to gasp, "Sigrid, I'm going to come..."
+She paused and lifted off me just long enough to say, "I know". Then she went back down, sucking me in, stroking me in hard jerks. Her tongue found that sensitive spot again, tickled it relentlessly, and I lost control. I spurted in her mouth, pulsing harder than I could remember, and she kept on stroking, licking, squeezing, until at last I was done.
+"God, Sigrid, that was fantastic..."
+She came up, smiling at me, and I could see my trace on her lips. "I'm glad you enjoyed it." Crouching over me, she looked the epitome of wickedness, and she turned to Cherie and beckoned. "Could you get me some water? I'd go get it myself but I'm rather in the middle of things..."
+"Of course!"
+Kelly squeezed my hand. I'd forgotten I was still gripping hers, and our knuckles must have been white. I squeezed back, and then let go my hold on her, sinking back into the beanbag as if Sigrid had sucked the bones out of my body.
+Cherie returned with three bottles of water. "I thought you could all do with some hydration!"
+While I was catching my breath, Sigrid took a long swig from her water bottle. "Now, while you're recharging your batteries, I believe it's Kelly's turn. Kel, how do you feel about getting out of that skirt?"
+Kelly reached for the buttons, then paused.
+"Anything the matter?" asked Sigrid.
+"People are going to see me." She was right. Although Alistair was still the main focus of attention, several of the crowd were staring at us. From the way Nicholas was looking at Kelly and Sigrid, I thought he was working up to inviting himself to join us.
+"I know, Kel," said Sigrid, and she crouched, kissing both of us as an excuse to whisper. "I'm not wild about having an audience myself. Much rather be with you at my place. Would it be easier if I go first?"
+"Maybe?" said Kelly. But she still sounded shy, uncomfortable. I felt I owed it to both of them to fix the situation, and I had an idea how it might be achieved.
+"You two stay there," I said, "I'm going to try something."
+With some effort I escaped the beanbag's clutches and stumbled to my feet, stark naked but for my socks. I might have pulled my pants back on for dignity, but at this point that was a lost cause; better, I thought, to look like somebody who no longer cared about that sort of thing.
+So, with my tackle dangling loose, I strode across the room to where our facilitator was holding court. Alistair's backside, previously red, was now striped in blue and black, and his tormentors had moved on to other punishments. I've never been able to look at a bulldog clip quite the same way.
+"Ashley, a word in private?"
+"Certainly." She didn't seem fazed by my nakedness, but then I didn't expect that. We strolled together to a vacant corner of the room, and she looked at me over those half-moon glasses. "Well?"
+"Sigrid and Kelly and I have been working some stuff out together."
+"I noticed."
+"At the start of the day, you told us that we could say no to anything we weren't comfortable with."
+"You always have that option."
+"But you know nobody wants to be the first."
+She shrugged. "Is that my fault?"
+"If people keep staring at us, Iwillbe the first. And then it will be easier for others to say no." I waved my hand at the mob around Alistair. "If you don't want that to happen, perhaps it would be easier if we're not in a position where I need to do that."
+She stared at me for a moment. I don't know what I was expecting, perhaps threats or anger. I wasn't expecting her to laugh.
+"Oh, Timothy. Youhavebeen paying attention. There's hope for you yet." She turned on her heel, and I wondered whether I'd somehow blown it, but then I saw she was heading for Nicholas. I don't know what she said to him, but by the time I'd walked back to where Sigrid and Kelly were lying, our spectators had turned their attention back to Alistair's penance.
+"Timothy... what did you do?" asked Sigrid.
+"Tell you later. But I don't think they'll be watching us any more. Now, shall I give the two of you some space?"
+"It's okay," said Kelly. "We're in this together." She kissed Sigrid, and then she took Sigrid's hand and guided it down to her skirt. "Go on then."
+"You sure?"
+"I'm sure."
+Sigrid grinned. "Good." She released the buttons, and eased the skirt down off Kelly's hips, leaning back to pull it over her feet. Then she started caressing Kelly's legs, stroking her calves, running fingernails up to her thighs. She took her time, and only when Kelly started making pleading noises did she get as far as Kelly's hips.
+At that point, being a gentleman, I mostly averted my eyes, but it's hard to be that close to two people making love without getting some inkling of what's going on. I felt the sort of wriggling that happens when somebody's removing clothing, and then there was a lot of squirming and a bit of giggling. Eventually the tone of Kelly's responses become lower, less playful and more urgent. From the soft wet noises I was hearing from further down, I had a pretty good idea why.
+I was beginning to suspect it wasn't Sigrid's first time with a woman. She brought Kelly close to the edge several times, but every time she eased off again just when it sounded like Kelly might have reached a point of no return, drawing things out longer than I would have thought possible. We were playing for time, of course, but still I had to respect her technique.
+In the end Kelly called time. "Come on, Sig, stop teasing me..."
+There was a moment's pause—I imagined Sigrid disengaging herself—and then she replied, "Ask and ye shall receive."
+"Please let me come, Sig."
+"My pleasure." A little longer, and then Kelly started to groan, and I could feel rhythmic movement through the beanbag, building, until at last Kelly gasped "Uh!" just once. Although we weren't touching, I could feel that her body was clenching like a fist, until at last she let go.
+Then Sigrid came up to cuddle her, and I turned back to them. Kelly's face and chest were flushed bright red; Sigrid was sticky-faced and smiling, and two of her fingers were wet. Both had shed the remainder of their clothes.
+Softly enough that I could barely hear, Kelly said, "Sigrid, I love you."
+"You too, babe." They kissed again, and then Sigrid turned to me. "And how are you doing?" She looked down at my lap. "I think somebody's waking up again."
+"Starting to."
+She reached out, spread her fingers across my slowly-firming cock. "While that's happening, there's something you could do for me..."
+"Oh?"
+She kissed me on the lips. She tasted somewhat of Kelly, and I wasn't sure quite what to think about that, but I didn't think about it for long. "Sit up a bit."
+I pushed the filling around until I was sitting rather than lying back, and Sigrid sat between my legs, leaning back so her back was against my chest. My arms naturally came around her, across her bust and her belly. "You know how long I've wanted to do this?"
+"I hope it was worth the wait."
+"Oh, yes." Her breast fit into my hand as if they'd been made for one another.
+"Would you mind if Kelly joined us? I'm feeling greedy and I'd like to be the filling in a cuddle sandwich."
+Kelly was lying on her side, still a trifle flushed, watching us. She looked hopeful.
+"Absolutely," I said. Kelly grinned and rolled over towards us, and we ended up in a tangled heap with Sigrid in the middle. Since Kelly and Sigrid were face to face, that meant Kelly's breasts were pressed against my left hand, but evidently this wasn't a violation of her "nothing funny" rule, and I didn't try to take advantage of the situation.
+My right hand was on Sigrid's stomach, stroking in circles, but with every circle I slipped a little lower. Before long I was tracing furrows through her curls, and when my intentions became clear she wriggled back towards me to improve my access. I slipped my finger down between her folds, dipping into her wetness, spreading it upwards, slickening her. As I worked around her sensitive nub, she squirmed against me, and my cock twitched.
+Kelly had moved down a little way, and was suckling on Sigrid's left breast, as I caressed the right. But after a little while she paused, looking up at us both. "Tim, is it okay if I join you?"
+"Er, yes?" I wasn't sure quite what she meant—hadn't she already joined us?—but I soon found out. She slid down Sigrid's body, until she was perched between Sigrid's knees, and I felt her hand move past mine. Sigrid gasped as Kelly's fingers slipped into her. It took us a little while to coordinate, but soon enough we'd settled into a complementary rhythm, my fingers and Kelly's both working for Sigrid's pleasure.
+"See," said Cherie from somewhere behind us, "you were at one another's throats just a couple of hours ago, and now you're playing togethersonicely."
+
+I'd shut my eyes to focus on the feel of Sigrid's body and the sound of her breath, so I was quite unprepared when I felt a tongue on my fingers. Not for my benefit, mind; Kelly was teasing Sigrid's clit with her tongue at the same time that I was working it with my fingers.
+"Oh,fuck," said Sigrid. "Tim, are you ready?"
+"Yes. Fuck, I don't have a condom."
+"Good thingoneof us believes in being prepared. One moment." She disengaged and wriggled off me, crawled over to her handbag next to the beanbag, and retrieved a small plastic square. She tossed it to me, and I broke my personal speed record in opening the packaging and sliding it on.
+Sigrid crouched astride me, and took my cock in hand, and positioned the tip against her. I pushed up, and there was a moment of pressure—she was very wet, but so tight—and then I was in her. She settled down against me, and lay back like she had been.
+"As you were, please. Both of you." She tugged my hand back down to her clit, and Kelly went back to licking her, and she ground and gyrated slowly against me.
+"Now," said Ashley, "Alistair's going to recite all the constructive feedback you've been giving him, so that you know he's heard it and taken it on board! And that will bring us to the end of a very productive afternoon."
+
+The partnership between my cock and Kelly's tongue didn't work quite as well as before. I think my cock was a little too close for Kelly's comfort, and Sigrid must have realised the same thing, for she reached down and pulled Kelly up to lie face-to-face with her. "That's fine, love. This is all good." Sigrid had her arms wrapped around Kelly, and Kelly hugged us both, and our legs were all tangled together as I moved slowly inside Sigrid.
+"Don't stop, Tim. Don't stop..."
+I was in heaven, but I couldn't stay there forever. I was supporting Sigrid's weight, and much of Kelly's, and it had been a long day. I moved with her for as long as I could, until I felt my energy starting to fade, and then I picked up the pace.
+"Mmm, yes." We twisted around so that we were on our sides, and that gave me the freedom to go harder. I could feel myself building, swelling; I had my hands on her hips now, and somebody—maybe Kelly, maybe Sigrid—was fingering her. "Yes, yes,yes."
+I felt her spasm around me, and that brought me to my own climax, and then I collapsed.
+* * * * *
+The evidence indicates that we retrieved our clothes—except for one sock which I never did get back—and I have hazy memories of a big group debrief.
+Cherie said something about our success in harnessing the power of oxytocin to reverse a negative dynamic. Kathleen explained to us all that her son had a heroin problem, and that was why she'd forgotten to pass on Margaret's message, and Margaret publicly forgave her. There were tears on both sides. The bit about Alistair went on forever, and I tuned it out as best I could. Somewhere in there the Enya finally stopped.
+Ashley wrapped it up. "Thank you all for putting your trust in us today. I hope what you've learned today will change how you work together as a team. I'm not able to join you for the return trip, but Cherie and Derek will get you back to the office. And we're done!"
+* * * * *
+The bus trip back was very, very quiet. Kelly and Sigrid and I sat together at the back, not because we were feeling amorous, but because none of us wanted to deal with the rest of the group. We might have exposed ourselves, literally and figuratively, but we'd also marked ourselves as outsiders. We were alsoquitetired, especially Sigrid. She spent much of the journey sleeping sprawled across us.
+Alistair sat very uncomfortably. He looked at nobody, and nobody looked at Alistair.
+In that windowless room, Ashley had somehow annulled the normal rules of human behaviour, the manners and mores that keep our animalistic urges in check. But now they were creeping back.
+Shame was in the air.
+After thirty-odd minutes of uncomfortable silence, the bus pulled in at the JCN offices. Cherie, who'd been sitting quietly at the front, stood up and beamed at us all.
+"Thanks everybody for joining us today. You all put so much into today's activities! And don't forget your things as you leave!" She held out the sack where we'd put our phones at the start of the day.
+We filed out, one by one, and Cherie shook everybody's hands as she handed them their phones. I was among the last, and I felt that she gave me an extra-wide smile as she said farewell. "Well done today, Timothy! I hope you'll get a lot out of what you learned!"
+I stepped off the bus, switching my phone back on as I got out, sticking close to Kelly and Sigrid. My colleagues were standing around looking dazed, or drifting towards their cars. But Alistair was already on his phone.
+"...are you talking about? That's where we've been all day!"
+The bus doors closed with a pneumatic hiss.
+"Yes, the team-building retreat. With Doctor Marchand... no, VersatileCorporateDynamics.Corporate."
+The engine grumbled to life.
+Alistair's eyes widened, and he stared at the logo on the side. "No, not 'Cognitive'. 'Corporate', I said... what?"
+The bus pulled away, slow at first, but quickly accelerating until it was out of sight, and I saw the blood draining from Alistair's face. "I'll call you back."
+"We never did tally up the final points," somebody said.
+On Monday I did some research online. There was indeed a "Versatile Cognitive Dynamics" listed, specialising in occupational psychology and team-building retreats, but I could find no record that "Versatile Corporate Dynamics" had ever existed, nor that there was any such person as Dr. Ashley Marchand.
+A week later, a parcel arrived in the mail. There was no return address, but a note in neat handwriting said "Equal first: Team Green and Team Blue." Below that, wrapped in bubble-wrap, were ten cheap little plastic trophies, each engraved: "For Participation".
+There was no return address.
+* * * * *
+Things fell apart. I have no doubt Ashley knew how it would play out. Bonding through shared transgression may be a good foundation for a cult or a crime family, but it's not a winning recipe for an IT company.
+Alistair had taken his licks, and that may have created some temporary relief. But he was still incompetent, and now he knew that we knew and we knew that he knew. Besides, it's hard to impose discipline on a team who've stood in line to flog you.
+There were too many elephants in the room. If we had been reluctant to talk about our problems before the retreat, we were even less willing to discuss them now, not after what had happened. The Paradigm Reimagination Group went on making the same mistakes, and eventually the whole project got shelved when Barron beat us to market.
+I hear Alistair took early retirement, but by that stage the damage was already done. I'd already left—ironically enough, poached by Barron, who offered me a substantial raise and found a lawyer to poke holes in my non-compete agreement. And I no longer had to wonder when my co-workers were thinking about the time they'd seen me naked.
+Sigrid and Kelly got out soon after I did, Kelly to a small web design company and Sigrid to a publishing outfit.
+JCN brought in a new office manager, but she couldn't fix things because nobody would talk to her about The Incident. It didn't help that she put up one of those cutesy "The Floggings Will Continue Until Morale Improves" signs on her desk. In the end, I think they closed the office down altogether and redeployed people elsewhere, those who hadn't already escaped.
+They never did catch the Milk Bandit.
+Still, not everything fell apart. I hear Kathleen and Margaret stayed friends. As for us...
+* * * * *
+"So what did you say to him?"
+"I said I'd had some bad experiences with team-building events, so maybe it would be better if somebody else handled that. I foresee a sick day in my future."
+"Good planning." It was almost my stop. I leaned in and kissed her, and one of our fellow passengers tsk-tsk-ed. "Well, have fun at Kelly's, and I guess I'll see you in a week."
+She squeezed me tight. "Of course you will. By the way, can we swap weeks next month? It's Kel's birthday and she wants to take me to a place at the coast for a few days."
+"Sure, no problem. Email me the dates."
+"Thanks, you're the best. Oh, and you should come around for dinner with us some time."
+"Love to. Any particular reason?"
+"I bought some new furniture I want you to try out."
+I looked blank.
+"Give you a clue. It's full of beans and it's got room for three." She winked at me, and then it really was my stop. The doors opened and the morning crowds carried her away from me for another week.
+* * * * *
+One last thing. I never told Sigrid or Kelly about this.
+Some years after I joined Barron Software, they flew me to the head office in San Francisco for a planning day. I was walking down a corridor deep in conversation with one of my NY colleagues when somebody passing me in the other direction said "Hello, Timothy."
+By the time I turned, she was disappearing into a meeting room. But I caught a glimpse of her. The charcoal business suit, the half-moon glasses. A red ID badge that just said CONTRACTOR.
+And then she was gone.
+* * * * *
+Thanks for reading! If you enjoyed this story, please vote and feel free to leave feedback. Thanks to AwkwardMD, LaRascasse, and my partner for beta-reading.
+This story was inspired by an ad from a company that runs "cuddle a co-worker" team-building sessions. Betcha thought I made that bit up!
